@@ -6,10 +6,14 @@ The script(s) in this repo, require SLiM output to be stored in a particular fas
 For example:
 
 INPUT...
+
 ...
 OUTPUT: R XX pX XX
+
 ......
+
 ......
+
 None # End of file
 
 
