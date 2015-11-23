@@ -1,20 +1,11 @@
-Files for getiing the SFS for a particular functional element from SLiM output
+Files for getiing the SFS for a particular functional element from SLiM output.
+
+The aim of this script is to generate, for a given set of SLiM runs, a file of SFS for each element type. These can then be used for other purposes
+
 Using previously written modules
 Project started on 21/11/2015
 
-The script(s) in this repo, require SLiM output to be stored in a particular fashion:
-For example:
+The script(s) in this repo, require SLiM output to be stored in my particular fashion, see the example file (slim_storage.txt)
 
-INPUT...
+This is just how I store SLiM files, so that they can be gzipped and stored tidily.
 
-...
-OUTPUT: R XX pX XX
-
-......
-
-......
-
-None # End of file
-
-
-This is just how I store SLiM files, so that they can be stored tidily and then gzipped
