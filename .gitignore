@@ -1,1 +1,4 @@
-weak_sweeps.txt.gz
+*.sfs.pkl
+*.summary.sfs
+*.txt.gz
+
